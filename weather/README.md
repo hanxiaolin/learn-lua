@@ -6,4 +6,4 @@
 1. cjson解析json
 2. luasocket发起http请求
 3. lua-zlib解码gizp安装
-4, lua-iconv编码转换
+4. lua-iconv编码转换
